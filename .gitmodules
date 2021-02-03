@@ -1,3 +1,6 @@
 [submodule "test01-child"]
 	path = test01-child
 	url = git@github.com:dmproni/test01-child.git
+[submodule "test01-child2"]
+	path = test01-child2
+	url = git@github.com:dmproni/test01-child2.git
